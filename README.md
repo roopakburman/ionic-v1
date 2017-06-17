@@ -1,6 +1,6 @@
-## Ionic 1.x
+## Ionic 1.3.3
 
-This is the repo for Ionic 1.x. If you're looking for the latest version (>= 2.0) of Ionic, please visit the main [Ionic](https://github.com/ionic-team/ionic) repo.
+This is the repo for Ionic 1.3.3. If you're looking for the latest version (>= 2.0) of Ionic, please visit the main [Ionic](https://github.com/ionic-team/ionic) repo.
 
 For new apps, we *strongly* recommend the [latest version of Ionic](https://github.com/ionic-team/ionic) which comes with the latest version of Angular, many new components, enhanced performance, and more.
 
